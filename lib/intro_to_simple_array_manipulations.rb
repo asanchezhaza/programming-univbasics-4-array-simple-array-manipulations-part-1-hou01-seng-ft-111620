@@ -14,11 +14,11 @@ def using_push(colors_in_the_rainbow, next_color = "violet"  )
  
  def using_pop (continents)
   continents = ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
- continents.pop
+ pop_with_args = continents.pop
 
  end
  
- def pop_with_args
+ 
  
  
    
