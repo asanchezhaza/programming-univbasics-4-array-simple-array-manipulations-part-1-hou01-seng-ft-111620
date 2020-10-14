@@ -15,7 +15,7 @@ def using_push(colors_in_the_rainbow, next_color)
  
  def using_pop (continents)
    
- other_continent =continents.pop
+continents.pop
  
  
   end
