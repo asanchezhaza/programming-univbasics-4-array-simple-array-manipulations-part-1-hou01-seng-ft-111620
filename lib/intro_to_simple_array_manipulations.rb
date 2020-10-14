@@ -20,6 +20,12 @@ def using_push(colors_in_the_rainbow, next_color = "violet"  )
 
  end
  
+ def pop_with_args (array)
+ array=[]
+ 
+ 
+ 
+ end
  
  
  
