@@ -28,7 +28,7 @@ continents.pop
   end
   
   def using_shift (array)
-    array.using_shift
+    array.shift
   end
     
   
