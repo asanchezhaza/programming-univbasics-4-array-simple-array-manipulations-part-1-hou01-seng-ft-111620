@@ -20,7 +20,8 @@ def using_push(colors_in_the_rainbow, next_color = "violet"  )
  end
  
  
- def shift_with_args 
+ def shift_with_args (2)
+   2 = 
  end
 
  
